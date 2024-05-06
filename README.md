@@ -79,6 +79,10 @@ Test Data Results:
 
 •	F1 Score: 93.55%
 
+The dataset can be downloaded from the following link:
+
+https://data.mendeley.com/datasets/5pc2j46cbc/1
+
 References:
 
 Nasreddine, Wassim (2021), “Epileptic EEG Dataset”, Mendeley Data, V1, doi: 10.17632/5pc2j46cbc.1
