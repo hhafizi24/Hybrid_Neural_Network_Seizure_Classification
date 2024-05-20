@@ -61,23 +61,23 @@ The model achieved the following performance metrics:
 
 Train Data Results:
 
-•	Accuracy: 97.94%
+•	Accuracy: 98.00%
 
-•	Precision: 98.61%
+•	Precision: 98.39%
 
-•	Recall: 98.60%
+•	Recall: 97.53%
 
-•	F1 Score: 98.60%
+•	F1 Score: 97.53%
 
 Test Data Results:
 
-•	Accuracy: 92.43%
+•	Accuracy: 92.55%
 
-•	Precision: 94.06%
+•	Precision: 93.90%
 
-•	Recall: 93.08%
+•	Recall: 94.58%
 
-•	F1 Score: 93.55%
+•	F1 Score: 94.19%
 
 The dataset can be downloaded from the following link:
 
